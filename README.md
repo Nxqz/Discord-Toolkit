@@ -1,4 +1,4 @@
 <p align="center">
   <img src="https://i.discord.fr/PSS.png">
 </p>
-# Discord-Toolkit
+<h1 align="center">[Discord Toolkit] - (v1.0.1)</h1>
