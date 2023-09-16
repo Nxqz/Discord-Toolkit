@@ -20,5 +20,5 @@ Download the zipfile and unzip it
 
 #### 2nd・Launch the tool
 ```
-$ python toolkit.py
+python toolkit.py
 ```
