@@ -10,3 +10,15 @@
 - [x] - [Check File] - Enter a file with a token list, and the tool will check all the tokens.
 - [x] - [Find Tokens] - The tool will find all the Discord tokens on your computer.
 - [ ] - [INFO] - More options soon..
+
+## How To Use
+
+#### 1st・Installation (Automated installation)
+```
+Download the zipfile on github and unzip it
+```
+
+#### 2nd・Launch the tool
+```
+$ python toolkit.py
+```
