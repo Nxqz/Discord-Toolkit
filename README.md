@@ -15,7 +15,7 @@
 
 #### 1st・Installation (Automated installation)
 ```
-Download the zipfile on github and unzip it
+Download the zipfile and unzip it
 ```
 
 #### 2nd・Launch the tool
